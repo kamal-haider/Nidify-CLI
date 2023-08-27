@@ -9,7 +9,7 @@ import (
 
 func main() {
 	if len(os.Args) != 3 {
-		fmt.Println("Usage: go run create_file.go <directory_name>")
+		fmt.Println("Usage: go run nidify <FeatureName> <ModelName>")
 		return
 	}
 
