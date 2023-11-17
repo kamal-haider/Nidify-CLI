@@ -1,0 +1,6 @@
+{
+    "directory_name": [
+        "file_name.js",
+        "${feature}_feature_name.js"
+    ]
+}
